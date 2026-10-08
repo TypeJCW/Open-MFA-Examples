@@ -1,5 +1,5 @@
 # JaCobWeb's Map Maker
-A simple map maker that supports saving and loading.
+A simple map maker that supports saving and loading. Requires Clickteam Fusion + addon.
 # Required Extensions
 - Array *(Built-in)*
 - File *(Built-in)*
